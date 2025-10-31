@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+qdrant-client
+sentence-transformers
+transformers
+torch
+accelerate
+python-multipart
+aiohttp
+typing-extensions

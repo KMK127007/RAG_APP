@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Solve 2x + 3 = 7",
+    "answer": "x = 2"
+  },
+  {
+    "question": "What is the derivative of x^2?",
+    "answer": "The derivative of x^2 is 2x."
+  },
+  {
+    "question": "Integrate x dx",
+    "answer": "The integral of x is (x^2)/2 + C."
+  },
+  {
+    "question": "What is the value of sin(90 degrees)?",
+    "answer": "sin(90°) = 1."
+  },
+  {
+    "question": "Simplify (a+b)^2",
+    "answer": "(a+b)^2 = a^2 + 2ab + b^2."
+  }
+]
